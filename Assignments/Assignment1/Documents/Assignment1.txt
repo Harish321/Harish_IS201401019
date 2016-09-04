@@ -1,0 +1,22 @@
+This is an assignment given in class to make five questions on NAto software engineering conference
+
+
+1._______ and _________ are the important categories in CHECKLIST FOR PLANNING SOFTWARE SYSTEM PRODUCTION
+      Ans: Tooling & Design
+2. The check-list of the fields sales representative and field engineering comes under________ category
+     Ans: Tooling.
+
+3.which of the following is the most important phase of SDLC
+a)requirements analysis 
+b)design 
+c)testing
+d)coding
+          Ans: a
+4.According to ISO 9001, inspection and testing comes under which management responsibility?
+a) Process control
+b) Document control
+c) Control of non-conforming products
+d) Servicing
+          Ans:a
+5.The programmer terminology must conform to ________  vocabulary.
+        Ans: standard IFIP/ICC
